@@ -3,4 +3,4 @@ lily：
 
 istmr (time series)
 
-dataframe cleaning, grouping, aggregation: tidyverse vs pandas vs sql
+dataframe cleaning, grouping, aggregation: (tidyverse %>% +janitor) vs pandas (vs sql)
