@@ -1,5 +1,4 @@
 # CC
 lily：
 istmr (time series)
-tidyverse
-tidyverse vs pandas 
+dataframe cleaning, grouping, aggregation: tidyverse vs pandas vs sql
