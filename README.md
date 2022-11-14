@@ -1,5 +1,6 @@
 # CommunityContribution - Cheatsheet
 Qinqi Zhang & YanQing Wang
+
 Introduction:
 A time series is a set of observations with each one being recorded at a specific time. Forecasting time series have different methods, such as recursive prediction algorithms, Durbin-Levinson algorithm and innovations algorithms.
 
