@@ -1,5 +1,5 @@
 # CommunityContribution - Cheatsheet
-## Qinqi Zhang & YanQing Wang
+### Qinqi Zhang & YanQing Wang
 
 
 ## Introduction:
